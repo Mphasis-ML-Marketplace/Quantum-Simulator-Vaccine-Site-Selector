@@ -1,1 +1,3 @@
 # Quantum-Simulator-Vaccine-Site-Selector
+
+Covid-19 vaccines must be readily available in areas most affected by the pandemic. While setting up vaccination centers it is very important to select locations which can fulfill the demand from the affected areas. Covid Vaccination center locator selects optimal locations for the centers from a given set of locations satisfying demand while minimizing cost. The solution works using Quantum Optimization Algorithms to help design the network of centers from a given locations. As compared to classical methods of optimization, it uses Simulated Quantum Annealing to lower the distribution/operations cost and compute time.
